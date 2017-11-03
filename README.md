@@ -1,3 +1,5 @@
+# Set [![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](https://godoc.org/gopkg.in/fatih/set.v0) [![Build Status](http://img.shields.io/travis/fatih/set.svg?style=flat-square)](https://travis-ci.org/fatih/set)
+
 # The Social-Engineer Toolkit (SET)
 
 Copyright 2017 The Social-Engineer Toolkit (SET)
